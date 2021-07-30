@@ -57,9 +57,7 @@ input:hover{
 input:focus{
     border: 1px solid #2962FF;
 }
-input:focus + label{
-    color: #2962FF;
-}
+
 .error input{
     border: 1px solid #D32F2F!important;
 }

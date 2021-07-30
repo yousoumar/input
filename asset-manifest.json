@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/input/static/css/main.d3e90b7e.chunk.css",
-    "main.js": "/input/static/js/main.a2a88507.chunk.js",
-    "main.js.map": "/input/static/js/main.a2a88507.chunk.js.map",
+    "main.css": "/input/static/css/main.9747bb85.chunk.css",
+    "main.js": "/input/static/js/main.ac8cd7bc.chunk.js",
+    "main.js.map": "/input/static/js/main.ac8cd7bc.chunk.js.map",
     "runtime-main.js": "/input/static/js/runtime-main.ac3f8c87.js",
     "runtime-main.js.map": "/input/static/js/runtime-main.ac3f8c87.js.map",
     "static/js/2.4f4f6082.chunk.js": "/input/static/js/2.4f4f6082.chunk.js",
     "static/js/2.4f4f6082.chunk.js.map": "/input/static/js/2.4f4f6082.chunk.js.map",
     "index.html": "/input/index.html",
-    "static/css/main.d3e90b7e.chunk.css.map": "/input/static/css/main.d3e90b7e.chunk.css.map",
+    "static/css/main.9747bb85.chunk.css.map": "/input/static/css/main.9747bb85.chunk.css.map",
     "static/js/2.4f4f6082.chunk.js.LICENSE.txt": "/input/static/js/2.4f4f6082.chunk.js.LICENSE.txt",
     "static/media/phone.6b96ffc3.svg": "/input/static/media/phone.6b96ffc3.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.ac3f8c87.js",
     "static/js/2.4f4f6082.chunk.js",
-    "static/css/main.d3e90b7e.chunk.css",
-    "static/js/main.a2a88507.chunk.js"
+    "static/css/main.9747bb85.chunk.css",
+    "static/js/main.ac8cd7bc.chunk.js"
   ]
 }

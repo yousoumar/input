@@ -1,0 +1,81 @@
+img{
+    width: 100%;
+    object-fit: cover;
+}
+.label-input-icon{
+    display: flex;
+    flex-direction: column-reverse;
+
+}
+.input-icon{
+    position: relative;
+}
+.input-icon.contain-start-icon input{
+    padding-left: 3rem;
+}
+.input-icon.contain-end-icon input{
+    padding-right: 3rem;
+}
+.input-icon .icon{
+    display: block;
+    width: 1.2rem;
+    position: absolute;
+    top: 50%;
+    transform: translate(-50%, -50%);
+
+}
+.input-icon .start-icon{
+    left: 1.5rem;
+}
+.input-icon .end-icon{
+    right: .5rem;
+   
+}
+input,label, input::placeholder {
+    font-size: inherit;
+    font-family: inherit;
+    color: inherit;
+    color: #828282;
+    outline: none;
+}
+label{
+    color: inherit;
+}
+input{
+    border-radius: 8px;
+    border: 1px solid #828282;
+    display: block;
+    padding: 1.1rem .9rem;
+    margin: .3rem 0;
+    position: relative;
+    min-width: 20rem;
+
+}
+input:hover{
+    border: 1px solid #333333;
+}
+input:focus{
+    border: 1px solid #2962FF;
+}
+input:focus + label{
+    color: #2962FF;
+}
+.error input{
+    border: 1px solid #D32F2F!important;
+}
+.error label{
+    color: #D32F2F!important;
+}
+.disabled{
+    background: #F2F2F2;
+    border: 1px solid #E0E0E0!important;
+}
+
+.helper-text{
+    color: #828282;
+    font-size: .8rem;
+}
+.error .helper-text{
+    color: #D32F2F;
+}
+

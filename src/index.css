@@ -10,7 +10,7 @@
 body{
   font-family: 'Fira Mono', monospace;
   min-height: 100vh;
-  overflow: hidden;
+  overflow-x: hidden;
   padding : 2rem 1rem;
   display: flex;
   justify-content: center;

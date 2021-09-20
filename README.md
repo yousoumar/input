@@ -1,8 +1,8 @@
 ## Input component
 
-Il s'agit là de réaliser  un composant `React` nommé `Input` de type `input` réutilisable.
+A React component, named Input, for creating reusable HTML inputs.
 
-Vous avez succecivement avec le code suivant les inputs suivants :
+You have successively with the following code the following buttons :
 
 <img src = "code.png"></img>
 
